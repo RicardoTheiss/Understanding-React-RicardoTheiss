@@ -4,25 +4,25 @@
 [Instale o Git](https://git-scm.com/downloads)
 ### Principais Conceitos e comandos
 
-**Repositório:** É um diretório onde os arquivos do projeto e suas respectivas versões são armazenados. Existem repositórios locais (no seu computador) e repositórios remotos (servidores online).
+- **Repositório:** É um diretório onde os arquivos do projeto e suas respectivas versões são armazenados. Existem repositórios locais (no seu computador) e repositórios remotos (servidores online).
 
-**Commit:** Representa uma alteração ou conjunto de alterações em um arquivo. Os commits são acompanhados por mensagens descritivas que explicam as mudanças realizadas.
+- **Commit:** Representa uma alteração ou conjunto de alterações em um arquivo. Os commits são acompanhados por mensagens descritivas que explicam as mudanças realizadas.
 
-**Branch:** É uma linha independente de desenvolvimento dentro do repositório. Branches permitem trabalhar em novas funcionalidades ou correções sem afetar a versão principal do código.
+- **Branch:** É uma linha independente de desenvolvimento dentro do repositório. Branches permitem trabalhar em novas funcionalidades ou correções sem afetar a versão principal do código.
 
-**Merge:** É a ação de combinar alterações de uma branch para outra. Isso ocorre quando se deseja integrar uma funcionalidade desenvolvida em uma branch de desenvolvimento de volta à branch principal.
+- **Merge:** É a ação de combinar alterações de uma branch para outra. Isso ocorre quando se deseja integrar uma funcionalidade desenvolvida em uma branch de desenvolvimento de volta à branch principal.
 
-**Pull Request:** No contexto de colaboração, é um pedido para que as alterações feitas em uma branch sejam revisadas e mescladas à branch principal. Essa prática é comum em ambientes de desenvolvimento colaborativo.
+- **Pull Request:** No contexto de colaboração, é um pedido para que as alterações feitas em uma branch sejam revisadas e mescladas à branch principal. Essa prática é comum em ambientes de desenvolvimento colaborativo.
 
-**Clone:** Fazer uma cópia completa de um repositório remoto para o seu computador, permitindo que você trabalhe localmente.
+- **Clone:** Fazer uma cópia completa de um repositório remoto para o seu computador, permitindo que você trabalhe localmente.
 
-**Push:** Enviar as alterações feitas em um repositório local para um repositório remoto, tornando-as disponíveis para outros colaboradores.
+- **Push:** Enviar as alterações feitas em um repositório local para um repositório remoto, tornando-as disponíveis para outros colaboradores.
 
-**Pull/Fetch:** Atualizar seu repositório local com as alterações feitas em um repositório remoto. "Pull" inclui automaticamente as alterações na branch atual, enquanto "Fetch" busca as alterações, mas não as mescla automaticamente.
+- **Pull/Fetch:** Atualizar seu repositório local com as alterações feitas em um repositório remoto. "Pull" inclui automaticamente as alterações na branch atual, enquanto "Fetch" busca as alterações, mas não as mescla automaticamente.
 
-**Conflito:** Ocorre quando o Git não consegue automaticamente mesclar duas alterações conflitantes. Isso requer intervenção manual do usuário para resolver as diferenças.
+- **Conflito:** Ocorre quando o Git não consegue automaticamente mesclar duas alterações conflitantes. Isso requer intervenção manual do usuário para resolver as diferenças.
 
-**Tag:** Uma marcação específica em um commit, geralmente usada para identificar versões estáveis do projeto.
+- **Tag:** Uma marcação específica em um commit, geralmente usada para identificar versões estáveis do projeto.
 
 
 ## <font color="pink">Github</font>
@@ -34,5 +34,14 @@ Por se tratar de uma platarforma mundial ultilizada por devs, é importantíssim
 - Configure um depositório 'Read Me' em seu perfil e deixe-o atraente
   - Como a imagem a seguir mostra
 ![Exemplo](<Captura de tela 2023-08-18 160551.png>)  
+
+
 [Adicione seu Github Stats](https://github.com/anuraghazra/github-readme-stats)  
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoTheiss&show_icons=true&theme=tokyonight)
+
+
+
 [Site com Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+<div style="display: inline_block"><br/>
+ <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ </div><br/>
