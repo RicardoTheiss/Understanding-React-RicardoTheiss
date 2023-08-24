@@ -1,5 +1,5 @@
 # Git e Github
-## <font color="red">Git</font>
+## <font color="pink">Git</font>
 &nbsp;&nbsp;&nbsp;&nbsp;Git é um sistema de controle de versão distribuído amplamente utilizado para o gerenciamento de código-fonte e colaboração em projetos de desenvolvimento de software. Desenvolvido por Linus Torvalds em 2005, o Git foi projetado para acompanhar as alterações feitas em arquivos ao longo do tempo, permitindo que várias pessoas trabalhem em um mesmo projeto simultaneamente de forma organizada.  
 [Instale o Git](https://git-scm.com/downloads)
 ### Principais Conceitos e comandos
@@ -33,7 +33,8 @@ Por se tratar de uma platarforma mundial ultilizada por devs, é importantíssim
 - Insira suas redes sociais, como Instagram e Linkedin
 - Configure um depositório 'Read Me' em seu perfil e deixe-o atraente
   - Como a imagem a seguir mostra
-![Exemplo](<Captura de tela 2023-08-18 160551.png>)  
+  <img src="assets/github.png">
+
 
 
 [Adicione seu Github Stats](https://github.com/anuraghazra/github-readme-stats)  
