@@ -15,9 +15,7 @@
     <!-- Conteúdo da Página -->
   </body>
 </html>
-```
 
-```html
 <!DOCTYPE html> declara o tipo de documento como HTML5.
 <html> é o elemento raiz que contém todo o conteúdo da página.
 <head> contém informações sobre a página, como o título e metadados.
