@@ -2,19 +2,6 @@
 
 JavaScript é uma linguagem de programação amplamente utilizada para adicionar interatividade e funcionalidade a páginas da web. É uma linguagem de script versátil e de alto nível que permite aos desenvolvedores criar aplicativos web dinâmicos e ricos em recursos. Neste guia, exploraremos os conceitos fundamentais do JavaScript e alguns dos principais comandos que você precisa conhecer.
 
-## Conteúdo
-
-1. [Introdução ao JavaScript](#introdução-ao-javascript)
-2. [Variáveis](#variáveis)
-3. [Tipos de Dados](#tipos-de-dados)
-4. [Operadores](#operadores)
-5. [Estruturas de Controle](#estruturas-de-controle)
-6. [Funções](#funções)
-7. [Objetos](#objetos)
-8. [Manipulação do DOM](#manipulação-do-dom)
-9. [Eventos](#eventos)
-10. [Conclusão](#conclusão)
-
 ## Introdução ao JavaScript
 
 JavaScript é uma linguagem de programação de alto nível que é interpretada pelo navegador do usuário para fornecer funcionalidade dinâmica a uma página da web. Ela pode ser usada para validar formulários, criar animações, manipular o DOM (Modelo de Documento do HTML) e muito mais.
